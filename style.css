@@ -1,0 +1,101 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 20px;
+    text-align: center;
+    color: #4CAF50;
+    margin: 20px 0;
+  }
+  
+  /* Container */
+  .container {
+    padding: 20px;
+
+  }
+  
+  /* Search Bar */
+  #search-query {
+    width: calc(100% - 50px);
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #search-button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+  }
+  
+  #search-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Search Engine Options */
+  .search-engines {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .search-engines label {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-engines input {
+    margin-right: 5px;
+  }
+  
+  /* Results */
+  #results {
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+  }
+  
+  /* Options Page Styles */
+  .options {
+    margin-top: 20px;
+  }
+  
+  .options label {
+    display: block;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  #save-options {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+    display: block;
+    margin: 20px auto 0;
+    width: 100%;
+  }
+  
+  #save-options:hover {
+    background-color: #45a049;
+  }
+  

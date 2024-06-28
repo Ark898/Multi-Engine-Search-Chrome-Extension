@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multi-Engine Search</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <input type="text" id="search-query" placeholder="Enter your search...">
+    <button id="search-button">Search</button>
+    
+    <div class="search-engines">
+      <label><input type="checkbox" id="google" checked> Google</label>
+      <label><input type="checkbox" id="bing" checked> Bing</label>
+      <label><input type="checkbox" id="duckduckgo" checked> DuckDuckGo</label>
+      <label><input type="checkbox" id="yahoo" checked> Yahoo</label>
+    </div>
+    
+    <div id="results">
+      <!-- Results will be displayed here -->
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
