@@ -2,7 +2,10 @@
 
 The Multi-Engine Search Chrome Extension allows users to perform searches across multiple search engines simultaneously, providing a comprehensive view of search results from Google, Bing, DuckDuckGo, Yahoo, and Firefox in one place.
 
-![Extension Screenshot](screenshot.png)
+![Screenshot (210)](https://github.com/Ark898/Multi-Engine-Search-Chrome-Extension/assets/137332440/1ba21b2c-b52c-4982-8e93-26421150da81)
+![Screenshot (211)](https://github.com/Ark898/Multi-Engine-Search-Chrome-Extension/assets/137332440/7f445a3a-72cc-4bae-ab37-6cb697933d64)
+
+
 
 ## Features
 
